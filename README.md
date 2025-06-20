@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Jessica Agarwal
 
-**CS Undergrad @ JECRC University (Kalvium track)**  
+**CS Undergrad**  
 Full-stack developer with a passion for clean UIs, secure backends, and scalable cloud solutions.
 
 ---
