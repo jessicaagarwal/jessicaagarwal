@@ -7,9 +7,10 @@ Full-stack developer with a passion for clean UIs, secure backends, and scalable
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-agarwal-00b6b7225/)  
-[![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white)](https://github.com/jessicaagarwal)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-agarwal-00b6b7225/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/jessicaagarwal)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/jessicaagarwal/)
+
 
 ---
 
