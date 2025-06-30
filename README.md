@@ -11,8 +11,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-agarwal-00b6b7225/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/jessicaagarwal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://portfolio-alpha-topaz-66.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/jessicaagarwal/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://portfolio-alpha-topaz-66.vercel.app/)
 [![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:agarwaljessica25@gmail.com)
 
 ---
