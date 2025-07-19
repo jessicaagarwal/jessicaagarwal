@@ -1,8 +1,7 @@
-
 <h1 align="center">👋 Hey, I'm Jessica Agarwal</h1>
 
 <p align="center">
-  <strong>CS Undergrad | Full-stack Developer | Scalable System Enthusiast</strong>
+  <strong>CS Undergrad | Full-stack Developer | AI & Scalable Systems</strong>
 </p>
 
 ---
@@ -21,9 +20,20 @@
 
 - 💼 I build **full-stack applications** with real auth, caching, and cloud workflows  
 - 🔐 Skilled in **Firebase Auth (Google & OTP)**, **JWT**, **role-based access**, and **Redis caching**  
-- 📊 Delivered end-to-end platforms with **PDF generation**, **rate limiting**, and **CI/CD deployments**  
-- 🧠 Fast learner. Systems thinker. I don’t just build apps — I build products that scale
-- 🌐 Explore my work in detail at: [jessica-agarwal-portfolio.vercel.app](https://jessica-agarwal-portfolio.vercel.app/)
+- 📦 Experienced with **Docker** & **CI/CD pipelines** (GitHub Actions, Render, Vercel)  
+- 🤖 Developed **AI Assistant Suite** using **Streamlit + LLM APIs** (Chatbot, Summarizer, JSON Extractor)  
+- 🧠 Hands-on with **prompt engineering**, **multi-service architecture**, and **environment secrets**  
+- 🌱 **GSSoC 2025 Contributor** – actively contributing to open source  
+- 🚀 Smart India Hackathon Prelims Finalist 2024 (Top 5 Institution Rank)  
+- 🌐 Portfolio: [jessica-agarwal-portfolio.vercel.app](https://jessica-agarwal-portfolio.vercel.app/)
+
+---
+
+## 🏆 Highlights
+
+- **Open Source:** Contributor at GSSoC 2025  
+- **AI & LLMs:** Built **AI Assistant Suite** (multi-tool AI platform)  
+- **Hackathons:** Smart India Hackathon Prelims Finalist (Top 5) , LNM Hacks 7.0
 
 ---
 
@@ -49,10 +59,17 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![Firebase Admin SDK](https://img.shields.io/badge/Firebase--Admin-FFCA28?logo=firebase&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens&logoColor=white)
-![PDFKit](https://img.shields.io/badge/PDFKit-003B71?logo=pdf&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?logo=githubactions&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white)
+![PDFKit](https://img.shields.io/badge/PDFKit-003B71?logo=pdf&logoColor=white)
 
-### 🛠 Tools & Platforms
+### 🤖 AI & Tools
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![LLM APIs](https://img.shields.io/badge/Generative--AI--APIs-000000?logo=openaigym&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?logo=python&logoColor=white)
+
+### 🛠 Platforms & Utilities
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
@@ -62,12 +79,18 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-- 🔹 [**HRX: Flexi Workforce Hub**](https://github.com/jessicaagarwal/S64_Jessica_Capstone_HRX) – Enterprise-grade HRMS with Redis caching, Firebase Auth, PDF payroll, Jest tests, CI/CD  
-- 🔹 [**E-Commerce App**](https://github.com/jessicaagarwal/e-commerce-application) – Full MERN stack shop with PayPal integration, Redux, responsive UI, and order workflows
+- **[AI Assistant Suite](https://github.com/jessicaagarwal/ai-assistant-suite)**  
+  *Multi-tool AI platform (Chatbot + Summarizer + JSON Extractor) built with Streamlit & LLM APIs.*
 
-📂 See more: [github.com/jessicaagarwal?tab=repositories](https://github.com/jessicaagarwal?tab=repositories)
+- **[HRX: Flexi Workforce Hub](https://github.com/jessicaagarwal/S64_Jessica_Capstone_HRX)**  
+  *Enterprise-grade HRMS with Redis caching, Firebase Auth, PDF payroll, Jest tests, and CI/CD pipelines.*
+
+- **[E-Commerce App](https://github.com/jessicaagarwal/e-commerce-application)**  
+  *Full MERN stack shop with PayPal API, Redux Toolkit, and responsive UI.*
+
+📂 **See more:** [github.com/jessicaagarwal?tab=repositories](https://github.com/jessicaagarwal?tab=repositories)
 
 ---
 
@@ -76,7 +99,9 @@
 | <img src="https://github-readme-stats.vercel.app/api?username=jessicaagarwal&show_icons=true&theme=radical" height="160" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaagarwal&layout=compact&theme=radical" height="160" /> |
 | --- | --- |
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jessicaagarwal&theme=onedark&row=1&no-frame=true&margin-w=20)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jessicaagarwal&theme=radical&hide_border=false)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jessicaagarwal&theme=radical&row=1&no-frame=true&margin-w=20)
 
 ---
 
