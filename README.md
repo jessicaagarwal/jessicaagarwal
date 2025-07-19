@@ -96,12 +96,18 @@
 
 ## 📊 GitHub Stats
 
-| <img src="https://github-readme-stats.vercel.app/api?username=jessicaagarwal&show_icons=true&theme=radical" height="160" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaagarwal&layout=compact&theme=radical" height="160" /> |
-| --- | --- |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jessicaagarwal&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaagarwal&layout=compact&theme=radical" height="160" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jessicaagarwal&theme=radical&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jessicaagarwal&theme=radical&hide_border=false" />
+</p>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jessicaagarwal&theme=radical&row=1&no-frame=true&margin-w=20)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jessicaagarwal&theme=radical&row=1&no-frame=true&margin-w=20" />
+</p>
 
 ---
 
