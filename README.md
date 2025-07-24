@@ -102,7 +102,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jessicaagarwal&theme=radical&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=jessicaagarwal&theme=radical&hide_border=false&t=1" />
 </p>
 
 <p align="center">
