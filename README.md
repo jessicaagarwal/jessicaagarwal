@@ -18,13 +18,12 @@
 
 ## 💡 About Me
 
-- 💼 I build **full-stack applications** with real auth, caching, and cloud workflows  
-- 🔐 Skilled in **Firebase Auth (Google & OTP)**, **JWT**, **role-based access**, and **Redis caching**  
-- 📦 Experienced with **Docker** & **CI/CD pipelines** (GitHub Actions, Render, Vercel)  
-- 🤖 Developed **AI Assistant Suite** using **Streamlit + LLM APIs** (Chatbot, Summarizer, JSON Extractor)  
-- 🧠 Hands-on with **prompt engineering**, **multi-service architecture**, and **environment secrets**  
-- 🌱 **GSSoC 2025 Contributor** – actively contributing to open source  
-- 🚀 Smart India Hackathon Prelims Finalist 2024 (Top 5 Institution Rank)  
+- 💼 Engineer in training with a focus on **MERN, AI integrations, and scalable cloud systems**  
+- 🧠 Experienced in **startup-scale engineering** through roles at **SecretEye** and **HyperrCompute**  
+- 🤖 Passionate about **responsible AI**, **LLM reasoning systems**, and **multi-service architectures**  
+- ⚙️ Skilled in **LangChain**, **FastAPI**, **Docker**, **Redis**, and **CI/CD pipelines**  
+- 🌱 **GSSoC 2025 Contributor**, **Smart India Hackathon Finalist**, **LNM Hacks 7.0 Finalist**  
+- 🚀 Built AI-driven and production-ready apps like **AI ScamBuster**, **Patra-Saar**, and **HRX**  
 - 🌐 Portfolio: [jessica-agarwal-portfolio.vercel.app](https://jessica-agarwal-portfolio.vercel.app/)
 
 ---
@@ -32,8 +31,23 @@
 ## 🏆 Highlights
 
 - **Open Source:** Contributor at GSSoC 2025  
-- **AI & LLMs:** Built **AI Assistant Suite** (multi-tool AI platform)  
-- **Hackathons:** Smart India Hackathon Prelims Finalist (Top 5) , LNM Hacks 7.0
+- **AI & LLMs:** Developed **AI ScamBuster**, **Patra-Saar**, and **Shoonya Wipe**  
+- **Hackathons:**  
+  - Smart India Hackathon 2024 – *Top 5 Institution Rank*  
+  - Smart India Hackathon 2025 – *4th Institution Rank (Shoonya Wipe)*  
+  - LNM Hacks 7.0 – *Gemini Medicare LLM App Winner*  
+  - OpenAI Open Model Hackathon 2025 – *Built Patra-Saar using GPT-OSS*  
+
+---
+
+## 💼 Experience
+
+- **SecretEye** – *Full-Stack Developer Intern (Oct 2025 – Present)*  
+  Redeveloping the official company website and building a store app for secure product management, real-time APIs, and modern UX.
+
+- **HyperrCompute** – *AI & Full-Stack Intern (Jul 2025 – Aug 2025)*  
+  Built and managed payment workflows with Razorpay, PayPal, Paytm, and RuPay.  
+  Worked on **Docker-based GPU orchestration** and **secure terminal lifecycles** for global users.
 
 ---
 
@@ -49,24 +63,28 @@
 ![React](https://img.shields.io/badge/React(Vite)-20232A?logo=react&logoColor=61DAFB)
 ![Redux Toolkit](https://img.shields.io/badge/Redux--Toolkit-593D88?logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![React Router](https://img.shields.io/badge/React--Router-CA4245?logo=reactrouter&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 ### 🔧 Backend & DevOps
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![Firebase Admin SDK](https://img.shields.io/badge/Firebase--Admin-FFCA28?logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase--Admin-FFCA28?logo=firebase&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?logo=githubactions&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white)
-![PDFKit](https://img.shields.io/badge/PDFKit-003B71?logo=pdf&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-005FED?logo=meta&logoColor=white)
 
 ### 🤖 AI & Tools
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![LLM APIs](https://img.shields.io/badge/Generative--AI--APIs-000000?logo=openaigym&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-FF0080?logo=groq&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG--Pipelines-000000?logo=ai&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-4B8BBE?logo=python&logoColor=white)
 
 ### 🛠 Platforms & Utilities
@@ -81,14 +99,14 @@
 
 ## 🚀 Featured Projects
 
-- **[AI Assistant Suite](https://github.com/jessicaagarwal/ai-assistant-suite)**  
-  *Multi-tool AI platform (Chatbot + Summarizer + JSON Extractor) built with Streamlit & LLM APIs.*
+- **[Shoonya Wipe](https://github.com/jessicaagarwal/Shoonya-wipe)**  
+  *Privacy automation tool for wiping system traces, logs, and metadata for digital hygiene.*
 
-- **[HRX: Flexi Workforce Hub](https://github.com/jessicaagarwal/S64_Jessica_Capstone_HRX)**  
-  *Enterprise-grade HRMS with Redis caching, Firebase Auth, PDF payroll, Jest tests, and CI/CD pipelines.*
+- **[HRX: Flexi Workforce Hub](https://github.com/kalviumcommunity/S64_Jessica_Capstone_HRX)**  
+  *Enterprise-grade HRMS with Redis caching, Google OAuth, Jest tests, and CI/CD pipelines.*
 
-- **[E-Commerce App](https://github.com/jessicaagarwal/e-commerce-application)**  
-  *Full MERN stack shop with PayPal API, Redux Toolkit, and responsive UI.*
+- **[Patra-Saar](https://github.com/jessicaagarwal/patra-saar)**  
+  *AI-driven legal document explainer simplifying Indian legal clauses using LangChain + RAG.*
 
 📂 **See more:** [github.com/jessicaagarwal?tab=repositories](https://github.com/jessicaagarwal?tab=repositories)
 
@@ -111,4 +129,4 @@
 
 ---
 
-<p align="center"><i>“Clean code. Solid systems. Real-world impact.”</i></p>
+<p align="center"><i>“Clean code. Solid systems. Responsible AI for real impact.”</i></p>
