@@ -42,12 +42,8 @@
 
 ## 💼 Experience
 
-- **SecretEye** – *Full-Stack Developer Intern (Oct 2025 – Present)*  
+- **SecretEye** – *Full-Stack Developer Intern (July 2025 – Oct 2025)*  
   Redeveloping the official company website and building a store app for secure product management, real-time APIs, and modern UX.
-
-- **HyperrCompute** – *AI & Full-Stack Intern (Jul 2025 – Aug 2025)*  
-  Built and managed payment workflows with Razorpay, PayPal, Paytm, and RuPay.  
-  Worked on **Docker-based GPU orchestration** and **secure terminal lifecycles** for global users.
 
 ---
 
